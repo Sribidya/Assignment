@@ -1,8 +1,6 @@
 # Assignment
-Problem statement
-
-use the website
-https://marksandspicy.com and perform the following tasks.
+Problem statement:
+Use the website and perform the following tasks.
 
 1. Go to the login page and enter the username as test@test.com and
 password as ThisIs@T3st. Check if there is an error displayed.
@@ -14,6 +12,6 @@ and check if the validation appears in the input box.
 populates when you enter the pin code. Check if the registration is
 successful.
 
-Solution
+Tools:
 Used Cypress 3.4.0  to create the test cases.
 Sublime Text as an editor.
